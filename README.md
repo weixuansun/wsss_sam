@@ -2,6 +2,8 @@
 
 PyTorch implementation of [An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems](https://arxiv.org/abs/2305.01586)
 
+**This is an inference-only method, no training is needed.**
+
 ## Install
 
 You should set the environment variable manually as follows if you want to build a local GPU environment for Grounded-SAM:
